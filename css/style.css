@@ -50,9 +50,18 @@ h1,h2,h3,p{
     height: 450px;
     color: #dadbdd;
 }
+.social-sites{
+    padding: 30px;
+    text-align: center;
+}
+.list-group-item {
+    background-color: transparent;
+	border: none;
+	padding: 5px 5px;
+}
 .cpyrgt {
     border-top:1px solid #efefef;
-     padding:2%
+     padding:2%;
 }
 
 
