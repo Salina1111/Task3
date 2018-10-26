@@ -1,11 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Niramit');
+
+h3,p{
+    text-align: center;
+}
+
 .inner-addon .glyphicon {
     position: absolute;
     padding: 15px;
     pointer-events: none;
-  }
+ }
+
 .right-addon input { 
       padding-right: 30px; 
-    }
+}
+
 .right-addon .glyphicon { 
     right: 65%;
 }
+
+.section-padding {
+    padding: 10px 0px;
+}
+
+.thumbnail{
+    margin: 50px;
+    display: inline-block
+   
+}
+
+.prof-pic{
+    border-radius: 50%;
+    height:200px ;
+    width: 200px;
+}
+
